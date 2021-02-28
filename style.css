@@ -1,0 +1,12 @@
+form {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 50px;
+}
+label {
+    margin: 10px;
+}
+.submit {
+    background-color: aquamarine;
+}
